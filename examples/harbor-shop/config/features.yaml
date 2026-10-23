@@ -1,0 +1,5 @@
+billing:
+  retries: 3
+  receipt: true
+notify:
+  queue: receipts

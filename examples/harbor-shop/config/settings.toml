@@ -1,0 +1,10 @@
+# Harbor Supply service settings.
+
+[smtp]
+host = "localhost"
+port = 1025
+from_addr = "receipts@harbor.example"
+
+[shop]
+currency = "USD"
+warehouse = "pier-4"
